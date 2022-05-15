@@ -6,8 +6,23 @@
 	<dict>
 		<key>Marvel.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>27BD11F1282BCAF600E206F5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>27BD126D2830305E00E206F5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
